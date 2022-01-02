@@ -88,3 +88,28 @@ footer{
 	font-size: 30px;
 	padding: 15px;
 }
+
+@media (max-width: 770px) {
+	 .link{
+
+		font-size: 20px;
+	}
+	.link{
+		font-size: 23px;
+	}
+	.writing{
+		
+		font-size: 23px;
+	}
+
+	#tel{
+		
+		font-size: 20px;
+
+	}
+	footer{
+	
+		font-size: 18px;
+	
+	}
+}
